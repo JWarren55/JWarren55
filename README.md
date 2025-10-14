@@ -15,3 +15,4 @@ I am pursuing both security and machine learning at school. I like to learn new 
 
 ## Contact Info
 Please email me at jonwwarren55@gmail.com
+LinkedIn - https://www.linkedin.com/in/jonathan-warren-9b7ab7378/
