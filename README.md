@@ -6,12 +6,10 @@ Bachelor's in Computer Science - Spring 2027
 
 Minor in Cybersecurity - Spring 2027
 
-Minor in Mathematics - Spring 2027
-
-several classes in AI and machine learning
+Minor in Machine Learning - Spring 2027
 
 ## Interest
-I am pursuing both security and machine learning at school. I like to learn new things and create programs.
+I am pursuing both security and machine learning at school. I like to learn and ceate things.
 
 ## Contact Info
 Please email me at jonwwarren55@gmail.com
