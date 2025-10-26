@@ -4,9 +4,9 @@ HI! I am Computer Science student at Oklahoma City University
 ## Learning
 Bachelor's in Computer Science - Spring 2027
 
-Minor in Cybersecurity - Spring 2027
+Minor in **Cybersecurity** - Spring 2027
 
-Minor in Machine Learning - Spring 2027
+Minor in **Machine Learning** - Spring 2027
 
 ## Interest
 I am pursuing both security and machine learning at school. I like to learn and ceate things.
